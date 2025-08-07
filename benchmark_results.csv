@@ -1,0 +1,9 @@
+method,operation,p50_duration_ms,p95_duration_ms,avg_duration_ms,p50_cpu_ms,p95_cpu_ms,avg_cpu_ms,p50_mem_kb,p95_mem_kb,avg_mem_kb
+Triggers,insert,10.1,10.1,10.099999999999998,0.0,0.0,0.0,0.0,0.0,0.0
+Triggers,update,28.9,28.9,28.899999999999995,0.0,0.0,0.0,0.0,0.0,0.0
+Temporal,insert,12.2,12.2,12.2,0.0,0.0,0.0,0.0,0.0,0.0
+Temporal,update,13.0,13.0,13.0,0.0,0.0,0.0,0.4,0.4,0.4
+CDC,insert,12.9,12.9,12.9,0.0,0.0,0.0,0.0,0.0,0.0
+CDC,update,23.8,23.8,23.800000000000004,0.0,0.0,0.0,0.0,0.0,0.0
+ChangeTracking,insert,13.6,13.6,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+ChangeTracking,update,27.1,27.1,27.1,1.6,1.6,1.6,0.4,0.4,0.4
